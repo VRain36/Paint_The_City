@@ -1,5 +1,8 @@
 ![PaintTheCity-로고-배너-001](https://user-images.githubusercontent.com/90603530/206701228-6428158e-4e9d-4038-8ebe-9115be65f279.png)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVRain36%2FPaint_The_City_Main&count_bg=%234CC1EF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 ## 💻 Paint The City - VR
 ### 📌 실행 방법 
 0️⃣ apk 파일 다운로드 : [Paint The City - VR](https://drive.google.com/file/d/1nEMiKCyz0QdxxEzrzpRxgZ-gz4x_pvb8/view?usp=sharing)
